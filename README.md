@@ -10,9 +10,11 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Stack:</h3>
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_48x48.png" alt="html5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_48x48.png" alt="css" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_48x48.png" alt="html5" />
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_48x48.png" alt="css" />
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_48x48.png" alt="javascript" />
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php_48x48.png" alt="php" />
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_48x48.png" alt="python" />
 </p>
