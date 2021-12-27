@@ -19,7 +19,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="javascript" />
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_48x48.png" alt="javascript" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
