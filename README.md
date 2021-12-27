@@ -17,4 +17,5 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_48x48.png" alt="javascript" />
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php_48x48.png" alt="php" />
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_48x48.png" alt="python" />
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c_48x48.png" alt="c" />
 </p>
