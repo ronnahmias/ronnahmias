@@ -1,5 +1,8 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnahmias&layout=compact&hide=)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<i class="devicon-devicon-plain"></i>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ron-nahmias/" target="blank">
