@@ -12,13 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="#">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_48x48.png" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="#">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_48x48.png" alt="css" width="40" height="40"/>
-  </a>
-  <a href="#">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_48x48.png" alt="javascript" />
-  </a>
 </p>
