@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/ronnahmias/ronnahmias/blob/main/images/Ron%20Nahmias.gif" alt="header"/>
+  <img src="https://github.com/ronnahmias/ronnahmias/blob/main/images/ron-gif.gif" alt="header"/>
 </div>
 <p align="center"> (Open to Work)</p>
 
