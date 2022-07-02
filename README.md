@@ -4,7 +4,7 @@
 </div>
 <p align="center"> (Open to Work)</p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
   <samp>Full-Stack Developer @Kristech</samp>
   <br>
