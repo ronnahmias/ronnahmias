@@ -28,12 +28,12 @@
 <p align="center">PHP, Nodejs, Java, Git, SQL Databases, Docker, AWS, C, HTML5, SCSS, CSS3, JavaScript, TypeScript, NestJs Framework, Python, Selenium, C#, .NET Framework, Jquery</p>
 
 <hr>
-<h2 align="center"> 🔭 Currently Learning</h2>
-<p align="center">
+<!-- <h2 align="center"> 🔭 Currently Learning</h2> -->
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
+</p> -->
+<!-- <hr> -->
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
