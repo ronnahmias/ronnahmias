@@ -18,14 +18,15 @@
 
 <h2 align="center"> 🔭 My Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  
 </p>
-<p align="center">PHP, Nodejs, Java, Git, SQL Databases, Docker, AWS, C, HTML5, SCSS, CSS3, JavaScript, TypeScript, NestJs Framework, Python, Selenium, C#, .NET Framework, Jquery</p>
+<p align="center">Nodejs, TypeScript, NestJs Framework, React, Next.js, Tailwincss, Java, Git, SQL Databases, Docker, AWS, C, HTML5, SCSS, CSS3, JavaScript,  Python, Selenium, C#, .NET Framework, PHP</p>
 
 <hr>
 <!-- <h2 align="center"> 🔭 Currently Learning</h2> -->
