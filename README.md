@@ -1,7 +1,4 @@
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/ronnahmias/ronnahmias/blob/main/images/ron-gif.gif" alt="header"/>
-</div>
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
   <samp>Software Developer</samp>
