@@ -2,13 +2,11 @@
 <div align="center">
   <img src="https://github.com/ronnahmias/ronnahmias/blob/main/images/ron-gif.gif" alt="header"/>
 </div>
-<p align="center"> (Open to Work)</p>
-
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
   <samp>Software Developer</samp>
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mobileye_logo_2022.svg/2560px-Mobileye_logo_2022.svg.png" alt="Mobileye logo" height="40"/>
+  <img src="https://static.mobileye.com/website/corporate/img/homepage2022/m_icon_footer.png" alt="Mobileye logo" height="40"/>
   <br>
   <samp>Mobileye</samp>
   <br> <br>
