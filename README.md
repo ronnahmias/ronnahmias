@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 </h1>
-<h2 align="center"> 👨‍💻 Who Am I</h2>
+<h2 align="center">Ron Nahmias</h2>
 <p align="center">
   <samp>Software Developer</samp>
   <br><br>
